@@ -5,6 +5,7 @@ public class temperatura {
 
     public static void main(String[] args) {
 
+        System.out.println("\n");
         Scanner sc = new Scanner(System.in);
         Locale.setDefault(Locale.US);
 
